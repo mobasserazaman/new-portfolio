@@ -1,0 +1,15 @@
+#social{
+   width: 25rem;
+   padding: 1rem;
+}
+
+#social h2{
+    text-align: left;
+}
+
+#social img{
+    height: 2rem;
+    width: 2rem;
+    object-fit: cover;
+    margin: 1rem;
+}

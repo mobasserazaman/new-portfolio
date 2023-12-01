@@ -1,8 +1,8 @@
 #core-concepts {
+  border-radius: 6px;
     padding: 2rem;
-    border-radius: 6px;
-    background-color: #140524;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    color: black;
+
 }
 
 #core-concepts ul {
@@ -21,7 +21,7 @@
   }
   
   #core-concepts li img {
-    height: 4rem;
+    height: 6rem;
     width: 6rem;
     object-fit: cover;
   }

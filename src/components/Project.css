@@ -1,0 +1,44 @@
+#current-project{
+    border-radius: 6px;
+    border:solid;
+    border-width: 1px;
+    border-color: #e35d83;
+    padding: 2rem;
+    color: black;
+}
+
+#projects h2{
+    text-align: left;
+    margin-top: 3rem;
+}
+
+#current-project menu {
+    margin: 1rem 0;
+    padding: 0;
+    display: flex;
+    gap: 0.5rem;
+    list-style: none;
+  }
+  
+  #current-project menu button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 6px;
+    background-color: #e35d83;
+    color: #000000;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  #current-project menu button:hover {
+    background-color: #1b082f;
+    color: #ebe7ef;
+  }
+  
+  #current-project menu button:active {
+    background-color: #e35d83;
+    color: #000000;
+  }
+
